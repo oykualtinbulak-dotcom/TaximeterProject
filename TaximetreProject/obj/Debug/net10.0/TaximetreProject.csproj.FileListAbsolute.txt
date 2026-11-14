@@ -1,0 +1,15 @@
+C:\Users\Elif\OneDrive\Masaüstü\PC ÖYKÜ\TaximetreProject\bin\Debug\net10.0\TaximetreProject.exe
+C:\Users\Elif\OneDrive\Masaüstü\PC ÖYKÜ\TaximetreProject\bin\Debug\net10.0\TaximetreProject.deps.json
+C:\Users\Elif\OneDrive\Masaüstü\PC ÖYKÜ\TaximetreProject\bin\Debug\net10.0\TaximetreProject.runtimeconfig.json
+C:\Users\Elif\OneDrive\Masaüstü\PC ÖYKÜ\TaximetreProject\bin\Debug\net10.0\TaximetreProject.dll
+C:\Users\Elif\OneDrive\Masaüstü\PC ÖYKÜ\TaximetreProject\bin\Debug\net10.0\TaximetreProject.pdb
+C:\Users\Elif\OneDrive\Masaüstü\PC ÖYKÜ\TaximetreProject\obj\Debug\net10.0\TaximetreProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elif\OneDrive\Masaüstü\PC ÖYKÜ\TaximetreProject\obj\Debug\net10.0\TaximetreProject.AssemblyInfoInputs.cache
+C:\Users\Elif\OneDrive\Masaüstü\PC ÖYKÜ\TaximetreProject\obj\Debug\net10.0\TaximetreProject.AssemblyInfo.cs
+C:\Users\Elif\OneDrive\Masaüstü\PC ÖYKÜ\TaximetreProject\obj\Debug\net10.0\TaximetreProject.csproj.CoreCompileInputs.cache
+C:\Users\Elif\OneDrive\Masaüstü\PC ÖYKÜ\TaximetreProject\obj\Debug\net10.0\TaximetreProject.dll
+C:\Users\Elif\OneDrive\Masaüstü\PC ÖYKÜ\TaximetreProject\obj\Debug\net10.0\refint\TaximetreProject.dll
+C:\Users\Elif\OneDrive\Masaüstü\PC ÖYKÜ\TaximetreProject\obj\Debug\net10.0\TaximetreProject.pdb
+C:\Users\Elif\OneDrive\Masaüstü\PC ÖYKÜ\TaximetreProject\obj\Debug\net10.0\TaximetreProject.genruntimeconfig.cache
+C:\Users\Elif\OneDrive\Masaüstü\PC ÖYKÜ\TaximetreProject\obj\Debug\net10.0\ref\TaximetreProject.dll
+C:\Users\Elif\OneDrive\Masaüstü\PC ÖYKÜ\TaximetreProject\obj\Debug\net10.0\Taximetr.BFA589D8.Up2Date
